@@ -39,7 +39,7 @@ public class OrderManagement {
                 + "VALUES (?, ?, ?, ?, ?, ?)";
 
         Object[][] orders = {
-            {101, "Rahul", "Laptop", 2, 55000.0, "Pending"},
+            {101, "Rahul", "Laptop", 4, 55000.0, "Pending"},
             {102, "Aman", "Mouse", 5, 500.0, "Shipped"},
             {103, "Priya", "Keyboard", 3, 1200.0, "Cancelled"}
         };
